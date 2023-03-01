@@ -426,7 +426,7 @@ class _InvoiceDetailsPageState extends State<InvoiceDetailsPage> {
                                               ),
                                               const SizedBox(height: 15),
                                               SizedBox(
-                                                width: 150,
+                                                width: 130,
                                                 child: textFormFields(
                                                   controller:
                                                   _productPriceController,
@@ -454,7 +454,7 @@ class _InvoiceDetailsPageState extends State<InvoiceDetailsPage> {
                                               ),
                                               const SizedBox(height: 15),
                                               SizedBox(
-                                                width: 150,
+                                                width: 130,
                                                 child: textFormFields(
                                                   controller:
                                                   _productQuantityController,
